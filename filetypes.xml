@@ -5,6 +5,7 @@
       <mapping pattern="script" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
